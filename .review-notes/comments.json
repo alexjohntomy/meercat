@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1778171742441-sn2kjc",
+    "filePath": "/src/components/TabBar.tsx",
+    "startLine": 36,
+    "endLine": 36,
+    "anchorContent": {
+      "firstLine": "            <span className=\"max-w-[120px] truncate\">{tab.name}</span>",
+      "lastLine": "            <span className=\"max-w-[120px] truncate\">{tab.name}</span>"
+    },
+    "text": "Lets consider using a canonical class here, can you check the eslint settings to make sure you have that enabled as well?",
+    "createdAt": "2026-05-07T16:35:42.441Z"
+  }
+]
