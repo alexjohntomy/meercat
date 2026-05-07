@@ -1,10 +1,12 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/alexjohntomy/meercat/main/public/screenshot.png" alt="Meercat screenshot" width="800">
+  <img src="https://raw.githubusercontent.com/alexjohntomy/meercat/main/public/meercat-wordmark.svg" alt="Meercat Wordmark" width="200">
 </h1>
 
-<h3 align="center">Meercat</h3>
-
 I wanted to do a thorough review of a codebase recently and wanted a Google Docs style inline-comment experience. But all the tools I saw were built around PRs and diffs, which doesn't really serve the "sit down and read through an entire codebase carefully" use case. The target usecase is basically stuff like your own project after a long build sprint, a friend asking you to do a review of their open source thing, or just AI-written code that's piled up without being properly reviewed. Of course, small focused PRs are the thing to aspire to, but I think this kind of review tool can be helpful for more comprehensive reviews between major versions (and ideally you should definitely make focused PRs based on your comments). I think this might also make sense as a way to leave comments for coding agents (or vice versa), instead of referencing single blocks at a time. Built almost entirely with OpenCode's Big Pickle model, with a micropass by Sonnet 4.6 and Gemini 3 Flash.
+
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/alexjohntomy/meercat/main/public/screenshot.png" alt="Meercat screenshot" width="800">
+</h1>
 
 ## Features
 
